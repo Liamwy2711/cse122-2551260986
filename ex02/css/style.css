@@ -1,0 +1,27 @@
+.banner {
+    max-width: 820px;
+    margin: 30px auto;
+    padding: 28px 36px;
+    background: linear-gradient(160deg, #C9A227, #A8861B);
+    color: #FFFFFF;
+    box-shadow: 0 4px 10px gray;
+    display: flow-root;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+p {
+    text-align: justify;
+}
+
+.anh-noi {
+    width: 260px;
+    float: right;
+    margin: 0 0 14px 18px;
+    border: 3px solid rgba(255,255,255,0.85);
+    border-radius: 4px;
+}
